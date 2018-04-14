@@ -1,7 +1,7 @@
 # Tensorflow-GPU installation on ubuntu
 *Installation was done on: April 12th, 2018. Guide prepared on April 14th, 2018*
 
-Recently, i purchased a NVidia Graphics Card. I had a tough time to setup Tensorflow-GPU on Ubuntu. Hence, I decided to make a comprehensive installation instruction guide. 
+Recently, I upgraded my NVidia Graphics Card, old drivers were not compatible with the new GPU. I had a tough time to setup Tensorflow-GPU on Ubuntu. Hence, decided to make a comprehensive installation instruction guide. 
 
 ### Hardware
 - Graphics Card: MSI Duke GTX 1080 <br/>
