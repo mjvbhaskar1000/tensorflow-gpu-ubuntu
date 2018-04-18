@@ -80,6 +80,7 @@ lsmod | grep nouveau
 If ```nouveau``` drivers are still loaded troubleshoot the issue and then proceed with step6.
 
 #### Step6: 
+
 Purge NVidia drivers
 ```
 sudo apt-get purge nvidia*  
